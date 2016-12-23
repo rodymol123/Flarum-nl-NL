@@ -29,3 +29,7 @@ flarum-mentions:
     settings:
       notify_post_mentioned_label: Iemand reageert op mijn berichten
       notify_user_mentioned_label: Iemand noemt mij in een bericht
+
+    # These translations are used in the user profile page and profile popup.
+    user:
+      mentions_link: Vermeldingen
