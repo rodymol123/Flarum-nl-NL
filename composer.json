@@ -1,34 +1,24 @@
 {
-    "name": "rodymol123/flarum-ext-dutch",
+    "name": "rodymolenaar/flarum-ext-dutch",
     "type": "flarum-extension",
-    "description": "Dutch language pack.",
-    "homepage": "https://github.com/rodymol123/Flarum-nl-NL",
+    "description": "Dutch language pack for Flarum.",
+    "homepage": "https://github.com/rodymolenaar/Flarum-nl-NL",
     "keywords": ["locale"],
     "license": "MIT",
     "authors": [
         {
             "name": "Rody Molenaar",
             "email": "rody.molenaar@xtrada.nl",
-            "homepage": "http://www.rodymol123.eu/"
+            "homepage": "http://rodymolenaar.nl/"
         }
     ],
     "support": {
-        "issues": "https://github.com/rodymol123/Flarum-nl-NL/issues",
-        "source": "https://github.com/rodymol123/Flarum-nl-NL",
+        "issues": "https://github.com/rodymolenaar/Flarum-nl-NL/issues",
+        "source": "https://github.com/rodymolenaar/Flarum-nl-NL",
         "forum": "https://discuss.flarum.org/d/758-dutch-language-pack"
     },
     "require": {
-        "flarum/core": "^0.1.0-beta.4"
-    },
-    "suggest": {
-        "flarum/flags": "Allow users to flag posts for moderator review",
-        "flarum/likes": "Allow users to like posts",
-        "flarum/lock": "End a discussion and don't let anyone add further replies",
-        "flarum/mentions": "Mention and reply to specific posts and users",
-        "flarum/pusher": "See new discussions and posts in real-time using Pusher",
-        "flarum/sticky": "Pin discussions to the top of the list",
-        "flarum/subscriptions": "Allow users to follow discussions and receive notifications for new posts",
-        "flarum/tags": "Organize discussions into a hierarchy of tags and categories"
+        "flarum/core": "^0.1.0-beta.7"
     },
     "extra": {
         "flarum-extension": {

@@ -28,6 +28,7 @@ flarum-subscriptions:
 
     # These strings are used in the Settings page.
     settings:
+      follow_after_reply_label: Automatisch discussies volgen als ik reageer
       notify_new_post_label: Iemand heeft gereageerd in een discussie die je volgt
 
     # These strings are used in the subscription menu displayed to the right of the post stream.
@@ -39,8 +40,8 @@ flarum-subscriptions:
       ignoring_text: Word niet op de hoogte gesteld. Verberg van de discussielijst.
       not_following_button: Niet volgend
       not_following_text: Word op de hoogte gesteld wanneer je @genoemd wordt.
-      notify_email_tooltip: Ontvang een email wanneer er nieuwe berichten zijn geplaatst.
       notify_alert_tooltip: Ontvang een forum notificatie wanneer er nieuwe berichten zijn geplaatst.
+      notify_email_tooltip: Ontvang een email wanneer er nieuwe berichten zijn geplaatst.
 
   ##
   # REUSED STRINGS - These keys should not be used directly in code!
